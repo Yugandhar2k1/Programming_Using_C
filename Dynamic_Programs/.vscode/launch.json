@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Programming_using_c/Programming_Using_C/Dynamic_Programs/sum_dp",
-      "program": "c:/Programming_using_c/Programming_Using_C/Dynamic_Programs/sum_dp/build/Debug/outDebug",
+      "cwd": "c:/Programming_using_c/Programming_Using_C/Dynamic_Programs/longest_subsequence",
+      "program": "c:/Programming_using_c/Programming_Using_C/Dynamic_Programs/longest_subsequence/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
